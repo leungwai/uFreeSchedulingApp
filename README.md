@@ -1,5 +1,7 @@
 # ⏰ uFree Scheduling App
 
+![uFree Logo](logo.png)
+
 **Created with Hannah Chen \(@hcchen012\), Susie Choi \(@susiechoii\), Ian Youth \(@iyouth23\) and Nico Stuart \(@nicostuart\)**
 
 iOS Scheduling App (WhenIsGood but with improved UI) created for Intro to Mobile App Dev Class
@@ -29,6 +31,17 @@ WhenIsGood (or similar scheduling apps) is an essential tool for planning events
 - I contributed to both the frontend and backend of the app, including coding the foundations of the frontend with SwiftUI, and organizing and coding the backend Firebase framework.
 
 ## Screenshots
+![Login Screen](loginscreen.png)
+> Login Screen
+
+![Default Calendar Screen](defaultcalendar.png)
+> Default Calendar
+
+![Event Creation](eventcreation.png)
+> Event Creation
+
+![Home Screen](homepage.png)
+> Home Screen
 
 ## To Improve for V2
 - [ ] Revamped UI for Tab Bar, Event Details Page
