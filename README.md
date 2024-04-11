@@ -1,4 +1,4 @@
-# ⏰ uFreeSchedulingApp
+# ⏰ uFree Scheduling App
 
 **Created with Hannah Chen \(@hcchen012\), Susie Choi \(@susiechoii\), Ian Youth \(@iyouth23\) and Nico Stuart \(@nicostuart\)**
 
